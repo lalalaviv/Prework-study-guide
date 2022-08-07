@@ -17,10 +17,14 @@ To use this Prework study guide, you can review the notes in each section. For s
 There you will see a list of topics we learned fomr the prework along with a suggection on which topic to study first. 
 
 ## Credits
+
 N/A
 
 
 ## License
 
 Please refer to the LICENSE in the repo. 
+
+
+
 ---
